@@ -82,7 +82,7 @@ Habitualmente **cada paquete "exporta" un objeto a través del cual accedemos a 
 
 > Como hemos visto, las dependencias del proyecto se suelen instalar en modo *local* (o sea, en el mismo directorio del proyecto). Los paquetes que incluyen herramientas en línea de comandos se suelen instalar en modo *global* (o sea, en un directorio global compartido por todos los proyectos).
 
-https://imgs.xkcd.com/comics/dependency.png
+![](https://imgs.xkcd.com/comics/dependency.png)
 
 ## Metadatos del proyecto: el archivo `package.json`
 
