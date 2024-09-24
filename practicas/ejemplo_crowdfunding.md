@@ -62,6 +62,7 @@ erDiagram
 
 ## Parte 3: Prototipado simple del sitio web
 
+(EN CONSTRUCCIÓN)
 
 
 ## Parte 4: Desarrollo del *backend*
