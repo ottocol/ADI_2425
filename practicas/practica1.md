@@ -39,7 +39,7 @@ Por suerte o por desgracia al usar Firebase nos vamos a ver más o menos "obliga
 
 Esto puede parecer un contrasentido, ya que hemos dicho que de momento no va a haber nada de HTML. No obstante lo que pedimos aquí no es una implementación sino un prototipado "de baja fidelidad". 
 
-No necesitamos **mockups**, es decir, representaciones fieles de cómo quedará la interfaz sino **wireframes**, bocetos que simplemente nos permitan saber la disposición de elementos (*layout*) en cada página del sitio. Hay muchas herramientas que permiten hacer *wireframes*, podéis usar la que queráis. En el ejemplo de *crowdfunding* se ha usado [Moqups](https://moqups.com), porque es sencilla de usar y gratuita (hasta 2 proyectos), pero como decimos podéis usar cualquier otra.
+No necesitamos **mockups**, es decir, representaciones fieles de cómo quedará la interfaz sino que nos basta con **wireframes**, bocetos que simplemente nos permitan saber la disposición de elementos (*layout*) en cada página del sitio. Hay muchas herramientas que permiten hacer *wireframes*, podéis usar la que queráis. En el ejemplo de *crowdfunding* se ha usado [Moqups](https://moqups.com), porque es sencilla de usar y gratuita (hasta 2 proyectos), pero como decimos podéis usar cualquier otra. También podríais hacer los dibujos a mano y escanearlos, lo importante no es la herramienta o el formato.
 
 La misión del *wireframe* es doble: por un lado planificar cómo será el sitio web de la práctica siguiente y por otro, al hacerlo os podéis dar cuenta de que quizá falta alguna funcionalidad importante para dar soporte a la interfaz de usuario. Por tanto en cada pantalla del sitio deberíais anotar qué casos de uso de la parte 1 se están empleando.
 
