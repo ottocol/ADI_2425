@@ -23,7 +23,7 @@ En el principio Javascript y el desarrollo *frontend* era **esto**
 </script>
 ```
 
-La web de los 90s: [https://www.sherlingchen.com](https://www.sherlingchen.com)
+La web de los 90s: [https://sophieswebsite1999.neocities.org/](https://sophieswebsite1999.neocities.org/)
 
 ---
 
