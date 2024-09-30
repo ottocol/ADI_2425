@@ -255,7 +255,7 @@ Vamos a ver a continuación con más detalle los **APIs estándar** que nos perm
 
 - API: https://owen-wilson-wow-api.onrender.com/
 
-- Plantilla de ejemplo: [https://codesandbox.io/s/demo-wow-api-hlv2lg?file=/index.html](https://codesandbox.io/s/demo-wow-api-hlv2lg?file=/index.html)
+- Plantilla de ejemplo: [https://stackblitz.com/edit/vitejs-vite-vykgjp](https://stackblitz.com/edit/vitejs-vite-vykgjp)
 
 ---
 
