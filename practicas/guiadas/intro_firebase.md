@@ -168,7 +168,7 @@ Aunque es un ejemplo un poco forzado, supongamos que tras autenticar al usuario 
 signInWithEmailAndPassword(auth, "adi@ua.es", "adiadi")
   .then(function(result){
      console.log(result.user.email)
-     return user.getIdToken()})
+     return result.user.getIdToken()})
   .then(function(token){
      console.log("token obtenido: " + token)	
   })
