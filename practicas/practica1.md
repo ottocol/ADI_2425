@@ -62,6 +62,6 @@ Podéis realizar cualquier otra ampliación o mejora que se os ocurra, pero cons
 
 ## Evaluación de la práctica y normas de entrega
 
-La fecha límite para la entrega será **el lunes 14 de octubre a las 23:59**. La entrega se realizará comprimiendo todos los archivos de vuestro proyecto en un .zip y subiéndolos a moodle (¡¡acordáos de no comprimir el `node_modules`!!).
+La fecha límite para la entrega será **~~el lunes 14 de octubre~~ el lunes 21 de octubre a las 23:59**. La entrega se realizará comprimiendo todos los archivos de vuestro proyecto en un .zip y subiéndolos a moodle (¡¡acordáos de no comprimir el `node_modules`!!).
 
 
