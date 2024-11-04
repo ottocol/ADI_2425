@@ -224,12 +224,12 @@ var store = {
 
 <!-- .slide: class="titulo" -->
 
-## 3. Estado centralizado en Vue: Pinia/Vuex
+## 3. Estado centralizado en Vue: Pinia
 
 
 ---
 
-**Pinia/Vuex 5** es el *framework* "oficial" de Vue para la gestión centralizada del estado. Es una implementación del "patrón *store*" (algo más sofisticada que lo que vimos antes)
+**Pinia** es el *framework* "oficial" de Vue para la gestión centralizada del estado. Es una implementación del "patrón *store*" (algo más sofisticada que lo que vimos antes)
 
 Aunque es particular de Vue se basa en los mismos principios básicos que se aplican habitualmente en el resto de *frameworks* Javascript: React (Redux), Angular (NgRedux), Svelte (Stores), ...
 
@@ -250,7 +250,7 @@ Aunque es particular de Vue se basa en los mismos principios básicos que se apl
 - El *store* es un objeto que contiene las propiedades 
   + `state`: el "árbol global" con el estado de la *app*
   + `getters`: variables calculadas en función del estado
-  + `actions`: métodos para modificar el estado 
+  + `actions`: métodos que implementan la lógica de negocio, normalmente modifican el estado 
 
 ```javascript
 import { defineStore } from "pinia";
