@@ -50,6 +50,6 @@ Cualquier otra funcionalidad que queráis añadir consultadla antes conmigo para
 
 ## Entrega
 
-El plazo de entrega concluye el **lunes 2 de diciembre de 2024 a las 23:59 horas**. La entrega se realizará como es habitual a través de Moodle.
+El plazo de entrega concluye el **~~lunes 2 de diciembre de 2024 a las 23:59 horas~~** **domingo 14 de diciembre de 2024 a las 23:59 horas**. La entrega se realizará como es habitual a través de Moodle.
 
 Entregad también un LEEME.txt donde expliquéis brevemente las partes optativas que habéis hecho y cualquier detalle que consideréis necesario.
